@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Accessibility fix for Genesis (NYU Specific)
- * Plugin URI: https://github.com/KonainM/accessible-menus-genesis-2.2-.git
+ * Plugin URI: https://github.com/KonainM/genesis-fix-for-nyu.git
  * Description: The plugin fixes accessibility issues with Genesis Framework and some of its child themes
  * Version: 1.2
  * Author: Konain Mukadam
