@@ -1,0 +1,50 @@
+element.style {
+}
+
+.entry-meta {
+	color: #6d7075;
+}
+
+blockquote, blockquote::before {
+	color: #6d7075;
+}
+
+.sidebar {
+	color: #6d7075;
+}
+
+input, select, textarea {
+	color: #6d7075;
+}
+
+.site-footer {
+	color: #000;
+}
+
+agency-pro-red .genesis-nav-menu .sub-menu .current-menu-item > a, .agency-pro-red .site-footer a {
+	color: #000;
+}
+
+element.style {
+	visibility: hidden;
+	display: none;
+}
+
+/*new css*/
+
+a {
+    color: #7c7200;
+    text-decoration: none;
+}
+
+body {
+    background-color: inherit;
+}
+
+.archive-pagination li a:hover, .archive-pagination li.active a {
+    background-color: #7c7200;
+}
+
+.site-footer a {
+    color: #6e6e6e;
+}

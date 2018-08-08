@@ -1,0 +1,18 @@
+.entry-meta {
+    color: #6d7075;
+}
+
+element.style {
+}
+
+a {
+    color: #193986;
+}
+
+.archive-pagination li a:hover, .archive-pagination li.active a {
+    background-color: #193986;
+}
+
+input, select, textarea {
+    color: #6d7075;
+}

@@ -1,0 +1,11 @@
+blockquote, blockquote::before {
+	color: #6d7075;
+}
+
+input, select, textarea {
+	color: #6d7075;
+}
+
+.search-form input[type="submit"] {
+	color: #6d7075;
+}

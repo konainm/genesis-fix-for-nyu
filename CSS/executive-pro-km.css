@@ -1,0 +1,11 @@
+.content .entry-header .entry-meta {
+    color: #6d7075;
+}
+
+.content .entry-header .entry-meta a {
+    color: #6d7075;
+}
+
+blockquote, blockquote::before {
+    color: #6d7075;
+}

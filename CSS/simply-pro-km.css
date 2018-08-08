@@ -1,0 +1,10 @@
+element.style {
+}
+
+.pagination li a {
+    color: #6d7075;
+}
+
+.pagination li a:hover, .pagination li.active a {
+    background: #fff;
+}
